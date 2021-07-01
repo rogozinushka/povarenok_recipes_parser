@@ -1,13 +1,14 @@
-import requests
-import bs4
-from multiprocessing import Pool
-from functools import reduce
-import pandas as pd
-import math
-from tqdm import tqdm
-from datetime import datetime
 import argparse
+import bs4
+from datetime import datetime
+from functools import reduce
+import math
+from multiprocessing import Pool
+import pandas as pd
 from pathlib import Path
+import requests
+from tqdm import tqdm
+
 from const import n_workers
 
 
