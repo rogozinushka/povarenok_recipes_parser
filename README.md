@@ -13,7 +13,7 @@ python ./bs4_parser/parse_povarenok_ru.py --save_path some_new_folder_with_data
 |-|-|-|
 |https://www.povarenok.ru/recipes/show/171921/|Омлет с сыром и ветчиной|{'Яйцо куриное': '5 шт', 'Ветчина': '150 г', 'Сыр твердый': '150 г', 'Соль': '1 щепот.', 'Масло сливочное': '10 г', 'Молоко': '50 мл'}|
 
-Этот датасет можно найти на [Kaggle](https://www.kaggle.com/rogozinushka/povarenok-recipes)
+Этот датасет можно найти на [Kaggle](https://www.kaggle.com/rogozinushka/povarenok-recipes) и [HuggingFace](https://huggingface.co/datasets/rogozinushka/povarenok-recipes).
 
 # Parser of recipes from [povarenok.ru](https://www.povarenok.ru) site
 
@@ -32,4 +32,4 @@ Finally, this dataframe will be made
 |https://www.povarenok.ru/recipes/show/171921/|Омлет с сыром и ветчиной|{'Яйцо куриное': '5 шт', 'Ветчина': '150 г', 'Сыр твердый': '150 г', 'Соль': '1 щепот.', 'Масло сливочное': '10 г', 'Молоко': '50 мл'}|
 
 
-This dataset was uploaded to [Kaggle](https://www.kaggle.com/rogozinushka/povarenok-recipes)
+This dataset was uploaded to [Kaggle](https://www.kaggle.com/rogozinushka/povarenok-recipes) and [HuggingFace](https://huggingface.co/datasets/rogozinushka/povarenok-recipes).
